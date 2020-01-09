@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '12.0'
+
+target 'RattleSnake_Example' do
+  pod 'RattleSnake', :path => '../'
+
+  target 'RattleSnake_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

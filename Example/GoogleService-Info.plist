@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>54968884895-j2b37gd80k722rua85of9ql9j835raao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.54968884895-j2b37gd80k722rua85of9ql9j835raao</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAG8uW4I3IMuCcM-BiEapTYSufjexRGBw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>54968884895</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.cocoapods.demo.RattleSnake-Example</string>
+	<key>PROJECT_ID</key>
+	<string>rattlesnakeexample</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rattlesnakeexample.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:54968884895:ios:a3754f79ced7f92813ccaa</string>
+	<key>DATABASE_URL</key>
+	<string>https://rattlesnakeexample.firebaseio.com</string>
+</dict>
+</plist>
